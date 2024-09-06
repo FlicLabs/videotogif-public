@@ -2,6 +2,8 @@
 
 This tool allows users to transcribe audio from video files, generate GIFs, upload them to GIPHY, and create relevant tags and captions using Anthropic's Claude model. The tool uses various libraries such as `cv2`, `moviepy`, `pydub`, and `streamlit` to perform these tasks.
 
+This project aims to create a versatile platform that converts videos into GIFs and stickers, with features that allow for adding captions and watermarks, and the option to animate these elements. The project also integrates multiple sources for video input, including direct uploads, YouTube links, and Google Photos, while providing additional functionalities such as uploading GIFs to Giphy, downloading them in a ZIP file, and editing captions. A key aspect of the project involves using Google OAuth for login and Stripe for payment processing. Currently, the project is built on the Streamlit framework.
+
 ### Table of Contents
 
 1. [Installation](#installation)
