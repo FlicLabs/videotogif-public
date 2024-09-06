@@ -83,3 +83,21 @@ The following environment variables need to be set in a `.env` file:
 - **Text Customization**: Customize text font, size, color, shadow, outline, and positioning.
 - **GIPHY Upload**: Option to upload generated GIFs to GIPHY.
 - **User Authentication**: Authenticate with Google Photos API to access user albums.
+
+### ASSIGNMENT TASK
+
+- Understand the entire code flow.
+- Create an amazing full-stack application with killer UI/UX, login/signup, database, and subscription integration.
+- Redesign the backend code as a FastAPI for smooth integration with the frontend.
+- Automate the Tenor API, including the automatic upload of GIFs to a specific account on the Tenor website.
+- Fix the Edit Caption functionality in the dashboard, which is currently not working.
+- Develop a database for the full-stack application, including login/signup, subscription purchasing, and credit storage.
+- Integrate subscriptions using Stripe, ensuring a proper connection between the frontend and backend to secure all confidential data.
+
+### PAID OPEN AI KEY
+
+- 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
+- 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
+If in case they stop working then use any free version and focus on other aspects by ignoring this step.
+
+Thankyou!! Looking forward to have you in the team as an founding member for this application. 
