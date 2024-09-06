@@ -1,0 +1,17 @@
+[theme]
+base = "dark"
+primaryColor = "#00a6ed"
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#282828"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+enableWebsocketCompression = true
+externalURL = "http://localhost:8501/"
+maxUploadSize = 1024
+
+[global]
+# Optional: Setting global log level, you can adjust to "debug" for more detailed logs.
+logger.level = "info"
