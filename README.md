@@ -46,7 +46,7 @@ This tool allows users to transcribe audio from video files, generate GIFs, uplo
 1. **Start the Application**:
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 2. **Select Input Source**:
