@@ -100,6 +100,7 @@ The following environment variables need to be set in a `.env` file:
 
 - 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
 - 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
+
 If in case they stop working then use any free version and focus on other aspects by ignoring this step.
 
 Thankyou!! Looking forward to have you in the team as an founding member for this application. 
